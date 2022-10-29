@@ -3,13 +3,11 @@ You can use this tool to prepare a photo for the Green Card Lottery.<br />
 GC-Autocrop automatically crops the photo to a size of 600x600 pixels.
 
 Pre-Requiredment:<br />
-Install the required libraries.<br /><br />
+Install the required libraries.<br />
 python -m pip install -r requirements.txt
 
-Usage:
-
-python gc-autocrop.py [path]photo.jpg
-
+Usage:<br />
+python gc-autocrop.py [path]photo.jpg<br />
 Example: python gc-autocrop.py C:\Users\User\Desktop\photo.jpg
 
 
